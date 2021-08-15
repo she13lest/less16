@@ -30,10 +30,6 @@
   margin-bottom: 8px;
 }
 
-.form-label {
-  margin-bottom: 4px;
-}
-
 .form-input {
   height: 32px;
   border-radius: 4px;
@@ -41,7 +37,7 @@
   padding: 4px;
   outline: none;
   width: 100%;
-  margin-top: 16px;
+  margin-top: 4px;
 }
 
 .form-input:invalid {
@@ -55,5 +51,5 @@
   text-transform: uppercase;
   color: white;
   border-radius: 4px;
-  margin-top: 16px;
+  margin-top: 24px;
 }
