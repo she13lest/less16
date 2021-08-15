@@ -6,9 +6,6 @@ form {
   margin: 32px;
 }
 
-input,
-button,
-select,
-textarea {
-  margin: 4px;
+div {
+  margin: 8px;
 }
