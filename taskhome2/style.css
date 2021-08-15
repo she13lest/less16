@@ -1,0 +1,14 @@
+* {
+  box-sizing: border-box;
+}
+
+form {
+  margin: 32px;
+}
+
+input,
+button,
+select,
+textarea {
+  margin: 8px;
+}
