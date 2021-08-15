@@ -4,14 +4,6 @@ input {
   height: 0;
 }
 
-.checkbox {
-  display: block;
-  padding-left: 35px;
-  position: relative;
-  font-size: 24px;
-  margin: 16px;
-}
-
 .checkmark {
   width: 25px;
   height: 25px;
@@ -20,6 +12,14 @@ input {
   position: absolute;
   top: 0;
   left: 0;
+}
+
+.checkbox {
+  display: block;
+  padding-left: 35px;
+  position: relative;
+  font-size: 24px;
+  margin: 16px;
 }
 
 .checkbox input:checked + .checkmark {
